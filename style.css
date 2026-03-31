@@ -1,0 +1,31 @@
+body{
+  font-family: sans-serif;
+  background-color:#f0b18d;
+  
+}
+header{
+    background-color:#663524 ;
+    text-align: center;
+    color:#ffffff ;
+}
+nav a{
+    color:#ffffff ;
+    margin: 10px;
+}
+main h2 {
+      background-color:#663524 ;
+       color:#ffffff ;
+}
+main ol {
+      background-color:#c48568;
+      
+      color:#b9faf4 ;
+}
+  main ul {
+        background-color:#b57c62;
+       color:#b9faf4 ;
+}    
+footer {
+    background-color:#663524 ;
+    color:#ffffff ;
+}
